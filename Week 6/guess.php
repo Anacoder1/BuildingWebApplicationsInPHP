@@ -5,7 +5,7 @@
 
 <?php
 $correctnumber=26; //change this number //
-if($_GET['guess'])
+if(isset($_GET['guess']))
 {
   if (is_numeric($_GET['guess'])===FALSE)
  {
