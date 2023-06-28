@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Anamitra Musib 32ce3337</title>
+<title>Krushik Padshala fd59225c</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
